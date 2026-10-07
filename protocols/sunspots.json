@@ -1,0 +1,21 @@
+{
+  "id": "CPE-sunspots-v1",
+  "claim": "Lagged ME-047 coherence gating lowers one-step MAE by at least 5% against matched EWMA residual correction.",
+  "dataset_kind": "external_retrospective",
+  "value_unit": "annual sunspot index (legacy series)",
+  "time_unit": "year",
+  "decay": 0.97,
+  "epsilon_scale": 0.01,
+  "alpha": 0.1,
+  "min_relative_gain": 0.05,
+  "bootstrap_samples": 1000,
+  "block_length": 11,
+  "seed": 20261007,
+  "max_normal_alert_rate": 0.1,
+  "primary_comparator": "ewma",
+  "equation_ids": [
+    "ME-047"
+  ],
+  "sectors": [],
+  "interaction_order": 0
+}

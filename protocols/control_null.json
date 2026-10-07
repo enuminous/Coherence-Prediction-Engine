@@ -1,0 +1,21 @@
+{
+  "id": "CPE-control_null-v1",
+  "claim": "Lagged ME-047 coherence gating lowers one-step MAE by at least 5% against matched EWMA residual correction.",
+  "dataset_kind": "synthetic",
+  "value_unit": "arbitrary sensor unit",
+  "time_unit": "sample",
+  "decay": 0.97,
+  "epsilon_scale": 0.01,
+  "alpha": 0.1,
+  "min_relative_gain": 0.05,
+  "bootstrap_samples": 1000,
+  "block_length": 20,
+  "seed": 20261007,
+  "max_normal_alert_rate": 0.1,
+  "primary_comparator": "ewma",
+  "equation_ids": [
+    "ME-047"
+  ],
+  "sectors": [],
+  "interaction_order": 0
+}
