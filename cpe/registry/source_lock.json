@@ -1,0 +1,26 @@
+{
+  "monolithic": {
+    "repository": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4",
+    "commit": "58f743bd44929049928d0b1d8beee9403c549a0d"
+  },
+  "formalization_102": {
+    "repository": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean",
+    "commit": "1d89827ccb914d26055feac13229134651d57700"
+  },
+  "fieldspace": {
+    "repository": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors",
+    "commit": "3053b513ec9ff2f42bba86f1d81694cde98a3d86"
+  },
+  "tortoise": {
+    "repository": "https://github.com/enuminous/Tortoise",
+    "commit": "6658128fd2df96ff6c32fce219bfc9ee3e8876da"
+  },
+  "dataset": {
+    "url": "https://github.com/statsmodels/statsmodels/blob/main/statsmodels/datasets/sunspots/sunspots.csv",
+    "git_blob_sha": "bf1aec0ce46612fb472d08b66a43115538f405d5",
+    "local_sha256": "fc03948236b199cd150994f2af948786cecfc317fd324ac2c513b2957f200cb0",
+    "documentation": "https://www.statsmodels.org/stable/datasets/generated/sunspots.html",
+    "license": "Public domain",
+    "evidence_type": "external retrospective observations; not blind or independent replication"
+  }
+}

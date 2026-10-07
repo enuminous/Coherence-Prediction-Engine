@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "FS-001",
+    "sectors": [
+      "E",
+      "M",
+      "S"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-002",
+    "sectors": [
+      "E",
+      "M",
+      "F"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-003",
+    "sectors": [
+      "E",
+      "M",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-004",
+    "sectors": [
+      "E",
+      "M",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-005",
+    "sectors": [
+      "E",
+      "M",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-006",
+    "sectors": [
+      "E",
+      "M",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-007",
+    "sectors": [
+      "E",
+      "M",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-008",
+    "sectors": [
+      "E",
+      "M",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-009",
+    "sectors": [
+      "E",
+      "M",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-010",
+    "sectors": [
+      "E",
+      "S",
+      "F"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-011",
+    "sectors": [
+      "E",
+      "S",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-012",
+    "sectors": [
+      "E",
+      "S",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-013",
+    "sectors": [
+      "E",
+      "S",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-014",
+    "sectors": [
+      "E",
+      "S",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-015",
+    "sectors": [
+      "E",
+      "S",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-016",
+    "sectors": [
+      "E",
+      "S",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-017",
+    "sectors": [
+      "E",
+      "S",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-018",
+    "sectors": [
+      "E",
+      "F",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-019",
+    "sectors": [
+      "E",
+      "F",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-020",
+    "sectors": [
+      "E",
+      "F",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-021",
+    "sectors": [
+      "E",
+      "F",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-022",
+    "sectors": [
+      "E",
+      "F",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-023",
+    "sectors": [
+      "E",
+      "F",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-024",
+    "sectors": [
+      "E",
+      "F",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-025",
+    "sectors": [
+      "E",
+      "W",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-026",
+    "sectors": [
+      "E",
+      "W",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-027",
+    "sectors": [
+      "E",
+      "W",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-028",
+    "sectors": [
+      "E",
+      "W",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-029",
+    "sectors": [
+      "E",
+      "W",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-030",
+    "sectors": [
+      "E",
+      "W",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-031",
+    "sectors": [
+      "E",
+      "T",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-032",
+    "sectors": [
+      "E",
+      "T",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-033",
+    "sectors": [
+      "E",
+      "T",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-034",
+    "sectors": [
+      "E",
+      "T",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-035",
+    "sectors": [
+      "E",
+      "T",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-036",
+    "sectors": [
+      "E",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-037",
+    "sectors": [
+      "E",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-038",
+    "sectors": [
+      "E",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-039",
+    "sectors": [
+      "E",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-040",
+    "sectors": [
+      "E",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-041",
+    "sectors": [
+      "E",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-042",
+    "sectors": [
+      "E",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-043",
+    "sectors": [
+      "E",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-044",
+    "sectors": [
+      "E",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-045",
+    "sectors": [
+      "E",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-046",
+    "sectors": [
+      "M",
+      "S",
+      "F"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-047",
+    "sectors": [
+      "M",
+      "S",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-048",
+    "sectors": [
+      "M",
+      "S",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-049",
+    "sectors": [
+      "M",
+      "S",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-050",
+    "sectors": [
+      "M",
+      "S",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-051",
+    "sectors": [
+      "M",
+      "S",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-052",
+    "sectors": [
+      "M",
+      "S",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-053",
+    "sectors": [
+      "M",
+      "S",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-054",
+    "sectors": [
+      "M",
+      "F",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-055",
+    "sectors": [
+      "M",
+      "F",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-056",
+    "sectors": [
+      "M",
+      "F",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-057",
+    "sectors": [
+      "M",
+      "F",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-058",
+    "sectors": [
+      "M",
+      "F",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-059",
+    "sectors": [
+      "M",
+      "F",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-060",
+    "sectors": [
+      "M",
+      "F",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-061",
+    "sectors": [
+      "M",
+      "W",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-062",
+    "sectors": [
+      "M",
+      "W",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-063",
+    "sectors": [
+      "M",
+      "W",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-064",
+    "sectors": [
+      "M",
+      "W",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-065",
+    "sectors": [
+      "M",
+      "W",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-066",
+    "sectors": [
+      "M",
+      "W",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-067",
+    "sectors": [
+      "M",
+      "T",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-068",
+    "sectors": [
+      "M",
+      "T",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-069",
+    "sectors": [
+      "M",
+      "T",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-070",
+    "sectors": [
+      "M",
+      "T",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-071",
+    "sectors": [
+      "M",
+      "T",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-072",
+    "sectors": [
+      "M",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-073",
+    "sectors": [
+      "M",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-074",
+    "sectors": [
+      "M",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-075",
+    "sectors": [
+      "M",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-076",
+    "sectors": [
+      "M",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-077",
+    "sectors": [
+      "M",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-078",
+    "sectors": [
+      "M",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-079",
+    "sectors": [
+      "M",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-080",
+    "sectors": [
+      "M",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-081",
+    "sectors": [
+      "M",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-082",
+    "sectors": [
+      "S",
+      "F",
+      "W"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-083",
+    "sectors": [
+      "S",
+      "F",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-084",
+    "sectors": [
+      "S",
+      "F",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-085",
+    "sectors": [
+      "S",
+      "F",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-086",
+    "sectors": [
+      "S",
+      "F",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-087",
+    "sectors": [
+      "S",
+      "F",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-088",
+    "sectors": [
+      "S",
+      "F",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-089",
+    "sectors": [
+      "S",
+      "W",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-090",
+    "sectors": [
+      "S",
+      "W",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-091",
+    "sectors": [
+      "S",
+      "W",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-092",
+    "sectors": [
+      "S",
+      "W",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-093",
+    "sectors": [
+      "S",
+      "W",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-094",
+    "sectors": [
+      "S",
+      "W",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-095",
+    "sectors": [
+      "S",
+      "T",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-096",
+    "sectors": [
+      "S",
+      "T",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-097",
+    "sectors": [
+      "S",
+      "T",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-098",
+    "sectors": [
+      "S",
+      "T",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-099",
+    "sectors": [
+      "S",
+      "T",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-100",
+    "sectors": [
+      "S",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-101",
+    "sectors": [
+      "S",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-102",
+    "sectors": [
+      "S",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-103",
+    "sectors": [
+      "S",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-104",
+    "sectors": [
+      "S",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-105",
+    "sectors": [
+      "S",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-106",
+    "sectors": [
+      "S",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-107",
+    "sectors": [
+      "S",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-108",
+    "sectors": [
+      "S",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-109",
+    "sectors": [
+      "S",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-110",
+    "sectors": [
+      "F",
+      "W",
+      "T"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-111",
+    "sectors": [
+      "F",
+      "W",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-112",
+    "sectors": [
+      "F",
+      "W",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-113",
+    "sectors": [
+      "F",
+      "W",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-114",
+    "sectors": [
+      "F",
+      "W",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-115",
+    "sectors": [
+      "F",
+      "W",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-116",
+    "sectors": [
+      "F",
+      "T",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-117",
+    "sectors": [
+      "F",
+      "T",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-118",
+    "sectors": [
+      "F",
+      "T",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-119",
+    "sectors": [
+      "F",
+      "T",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-120",
+    "sectors": [
+      "F",
+      "T",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-121",
+    "sectors": [
+      "F",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-122",
+    "sectors": [
+      "F",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-123",
+    "sectors": [
+      "F",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-124",
+    "sectors": [
+      "F",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-125",
+    "sectors": [
+      "F",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-126",
+    "sectors": [
+      "F",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-127",
+    "sectors": [
+      "F",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-128",
+    "sectors": [
+      "F",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-129",
+    "sectors": [
+      "F",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-130",
+    "sectors": [
+      "F",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-131",
+    "sectors": [
+      "W",
+      "T",
+      "I"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-132",
+    "sectors": [
+      "W",
+      "T",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-133",
+    "sectors": [
+      "W",
+      "T",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-134",
+    "sectors": [
+      "W",
+      "T",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-135",
+    "sectors": [
+      "W",
+      "T",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-136",
+    "sectors": [
+      "W",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-137",
+    "sectors": [
+      "W",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-138",
+    "sectors": [
+      "W",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-139",
+    "sectors": [
+      "W",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-140",
+    "sectors": [
+      "W",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-141",
+    "sectors": [
+      "W",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-142",
+    "sectors": [
+      "W",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-143",
+    "sectors": [
+      "W",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-144",
+    "sectors": [
+      "W",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-145",
+    "sectors": [
+      "W",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-146",
+    "sectors": [
+      "T",
+      "I",
+      "R"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-147",
+    "sectors": [
+      "T",
+      "I",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-148",
+    "sectors": [
+      "T",
+      "I",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-149",
+    "sectors": [
+      "T",
+      "I",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-150",
+    "sectors": [
+      "T",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-151",
+    "sectors": [
+      "T",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-152",
+    "sectors": [
+      "T",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-153",
+    "sectors": [
+      "T",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-154",
+    "sectors": [
+      "T",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-155",
+    "sectors": [
+      "T",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-156",
+    "sectors": [
+      "I",
+      "R",
+      "H"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-157",
+    "sectors": [
+      "I",
+      "R",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-158",
+    "sectors": [
+      "I",
+      "R",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-159",
+    "sectors": [
+      "I",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-160",
+    "sectors": [
+      "I",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-161",
+    "sectors": [
+      "I",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-162",
+    "sectors": [
+      "R",
+      "H",
+      "P"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-163",
+    "sectors": [
+      "R",
+      "H",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-164",
+    "sectors": [
+      "R",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  },
+  {
+    "id": "FS-165",
+    "sectors": [
+      "H",
+      "P",
+      "A"
+    ],
+    "dynamics_implemented": false
+  }
+]

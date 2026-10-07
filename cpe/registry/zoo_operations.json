@@ -1,0 +1,35 @@
+[
+  {
+    "operation": "TORTOISE",
+    "source": "https://github.com/enuminous/Tortoise/tree/6658128fd2df96ff6c32fce219bfc9ee3e8876da",
+    "canonical_purpose": "Freeze, predict, score, ablate, replicate without assuming EFMW wins",
+    "adapter": "CPE continuous-target regression adapter v1; not the complete canonical binary classifier",
+    "inputs": [
+      "frozen protocol",
+      "chronological series",
+      "matched comparator",
+      "candidate and ablations"
+    ],
+    "transformation": [
+      "train-only AR fit",
+      "calibration-only bands",
+      "causal forecast-before-observation",
+      "held-out scoring"
+    ],
+    "outputs": [
+      "predictions",
+      "metrics",
+      "evidence status",
+      "revision proposal",
+      "failure records"
+    ],
+    "pass_criteria": "Protocol minimum relative MAE gain (shipped: 5%), bootstrap lower bound > 0, and applicable alert-rate constraint",
+    "result": "Per-run result only; replication remains unresolved",
+    "anti_circularity": "No outcome-based model selection within a frozen run"
+  },
+  {
+    "operation": "OTHER_ZOO_ANIMALS",
+    "status": "not_run",
+    "reason": "No invented animal contracts or claim of a complete 46/50-animal pass"
+  }
+]

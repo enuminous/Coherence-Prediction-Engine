@@ -1,0 +1,27 @@
+[
+  {
+    "id": "CPE-C01",
+    "claim": "All eleven-sector triples are catalogued",
+    "status": "demonstrated_by_enumeration",
+    "evidence": "python -m cpe atlas",
+    "scope": "combinatorial coverage only"
+  },
+  {
+    "id": "CPE-C02",
+    "claim": "Forecast at t uses observations only through t-1",
+    "status": "testable_software_contract",
+    "evidence": "tests/test_engine.py; forecast/observation journals"
+  },
+  {
+    "id": "CPE-C03",
+    "claim": "Coherence gating reduces MAE by at least 5% against matched EWMA",
+    "status": "hypothesis",
+    "evidence": "Frozen per-dataset protocols and generated results; failures retained"
+  },
+  {
+    "id": "CPE-C04",
+    "claim": "CPE establishes EFMW physical validity",
+    "status": "unresolved_not_claimed",
+    "evidence": "No physical field equation solver or independent physical test included"
+  }
+]
