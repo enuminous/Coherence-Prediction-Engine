@@ -1,0 +1,11 @@
+{
+  "release": "0.1.0",
+  "contract_tests": 21,
+  "contract_tests_passed": 21,
+  "benchmark_experiments": 3,
+  "test_observations": 6059,
+  "accepted_advantage_claims": 0,
+  "local_html_links_verified": 32,
+  "rendering_check": "Static HTML parsed and local links verified; browser rendering unavailable in the build environment.",
+  "lean_rebuilt": false
+}

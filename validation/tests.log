@@ -1,0 +1,26 @@
+test_complete_ticket_resolution_cycle (test_engine.ExperimentContracts.test_complete_ticket_resolution_cycle) ... ok
+test_file_or_source_change_invalidates_freeze (test_engine.ExperimentContracts.test_file_or_source_change_invalidates_freeze) ... ok
+test_journal_reordering_is_detected (test_engine.ExperimentContracts.test_journal_reordering_is_detected) ... ok
+test_mismatched_ticket_outcome_is_rejected (test_engine.ExperimentContracts.test_mismatched_ticket_outcome_is_rejected) ... ok
+test_reproduction_is_numerically_identical (test_engine.ExperimentContracts.test_reproduction_is_numerically_identical) ... ok
+test_run_integrity_missing_labels_and_no_overwrite (test_engine.ExperimentContracts.test_run_integrity_missing_labels_and_no_overwrite) ... ok
+test_test_values_do_not_change_fit_or_calibration (test_engine.ExperimentContracts.test_test_values_do_not_change_fit_or_calibration) ... ok
+test_training_after_test_is_rejected (test_engine.ExperimentContracts.test_training_after_test_is_rejected) ... ok
+test_unknown_and_non_executable_equations_rejected (test_engine.ExperimentContracts.test_unknown_and_non_executable_equations_rejected) ... ok
+test_unsorted_duplicate_irregular_times_rejected (test_engine.ExperimentContracts.test_unsorted_duplicate_irregular_times_rejected) ... ok
+test_bound_on_memory_for_bounded_innovations (test_engine.NumericalContracts.test_bound_on_memory_for_bounded_innovations) ... ok
+test_coherence_bounds_extremes_and_scale (test_engine.NumericalContracts.test_coherence_bounds_extremes_and_scale) ... ok
+test_coherence_mapping_is_not_translation_invariant (test_engine.NumericalContracts.test_coherence_mapping_is_not_translation_invariant) ... ok
+test_constant_signal_has_exact_forecasts (test_engine.NumericalContracts.test_constant_signal_has_exact_forecasts) ... ok
+test_future_observation_cannot_change_current_forecast (test_engine.NumericalContracts.test_future_observation_cannot_change_current_forecast) ... ok
+test_invalid_decay_and_nonfinite_rejected (test_engine.NumericalContracts.test_invalid_decay_and_nonfinite_rejected) ... ok
+test_memory_forgets_initial_state_at_stated_rate (test_engine.NumericalContracts.test_memory_forgets_initial_state_at_stated_rate) ... ok
+test_all_165_structural_counts (test_engine.ScopeContracts.test_all_165_structural_counts) ... ok
+test_four_body_gap_reported (test_engine.ScopeContracts.test_four_body_gap_reported) ... ok
+test_registry_does_not_promote_unimplemented_equations (test_engine.ScopeContracts.test_registry_does_not_promote_unimplemented_equations) ... ok
+test_unknown_sector_rejected (test_engine.ScopeContracts.test_unknown_sector_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.211s
+
+OK
