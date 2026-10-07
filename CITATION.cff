@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software and the specific frozen experiment when using its results."
+title: "Coherence Prediction Engine"
+version: 0.1.0
+date-released: 2026-10-07
+type: software
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+abstract: "A bounded forecasting and evaluation engine with lagged coherence gating, matched controls, reproducible evidence and explicit rejection decisions."

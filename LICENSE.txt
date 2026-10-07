@@ -1,0 +1,9 @@
+Coherence Prediction Engine — original implementation and documentation
+Copyright (c) 2026 Matthew Chenoweth Wright / Monolithic.
+All rights reserved. This package does not grant a new license to underlying
+Monolithic or EFMW intellectual property.
+
+The preserved TORTOISE reference material retains its MIT license, included at
+references/tortoise-license.txt. The historical sunspot dataset is public domain
+according to its source documentation. Other preserved source references retain
+their existing authorship and terms. See references/PROVENANCE.md.
