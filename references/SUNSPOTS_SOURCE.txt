@@ -1,0 +1,6 @@
+Historical yearly sunspot observations, 1700–2008 (309 rows).
+The statsmodels dataset documentation attributes these data to the National Geophysical Data Center and marks the data public domain.
+Documentation: https://www.statsmodels.org/stable/datasets/generated/sunspots.html
+Source data module: https://github.com/statsmodels/statsmodels/blob/main/statsmodels/datasets/sunspots/data.py
+Observed source-module Git blob: c8021b1a6ea20ad1967b43d0abc107da39740959
+The included CSV is a legacy historical series, not the latest revised solar-index release.
