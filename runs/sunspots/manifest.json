@@ -1,0 +1,15 @@
+{
+  "files": {
+    "audit.json": "04a5110d25e18c5955fd3bad92c659b8f6bfbb8dceae52726298ed68ad8d87fb",
+    "checkpoints.json": "94913eb8ea61cfb680b48013b27c08da315bcc825cfc5889d4d767c9c085a346",
+    "checkpoints_before_test.json": "e8fcce1ae29c634df375dc30c506ffe273f87a835851b45e2ddae8c6a72485da",
+    "events.jsonl": "be9431c247c8bf73b87ed0e69e0f59a4d8e7750a69c0169bfb6db4b01c794cae",
+    "freeze.json": "96cbd9455116088ac11e7c6aa0a69fc530fcc4f772f140f56364162c8c723813",
+    "predictions.csv": "e0b0a8330e3bf7d056fc18b6680bd0653e8140a0015a10d490e9b579921f2d64",
+    "report.html": "c2602301dad6d910264d5d79905651b6b8541285ebd971774d239c4ae2d525b7",
+    "revision.json": "6f7b904e8cefedccdc15b38100f9834822431752ea8e756cfb3363e6853ed10a",
+    "summary.json": "e8a998c4cd4b140c122f4315a09d59e1b72e89cc50cb5007dfb992b3c402b304"
+  },
+  "format": "cpe-run-manifest-v1",
+  "sha256": "9c4ae1ed769d4aa3c07c7eef79b79c1ad081df625daef45e38f409ac93523433"
+}

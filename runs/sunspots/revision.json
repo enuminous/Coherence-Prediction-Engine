@@ -1,0 +1,12 @@
+{
+  "action": "reject_advantage_claim_for_this_run",
+  "automatic_parameter_change": false,
+  "disposition": "not_supported",
+  "new_experiment_required": true,
+  "next_model": "ewma",
+  "next_test": "Freeze a new protocol and use newly collected or separately held-out observations.",
+  "parent_freeze": "c49ffa5c88e7e263ee38af1cfb52503b489ff6f826b633be56581b8f5a264049",
+  "parent_protocol": "CPE-sunspots-v1",
+  "prohibited_reuse": "These test outcomes are now development evidence, not a fresh confirmation set.",
+  "rationale": "Retain the matched conventional baseline as the working alternative; do not rewrite this result."
+}

@@ -1,0 +1,83 @@
+{
+  "diagnostics": {
+    "evaluated_event_rows": 0,
+    "evaluated_normal_rows": 0,
+    "event_detection_rate": null,
+    "label_coverage": 0.0,
+    "normal_alert_rate": null,
+    "note": "Post-observation residual alerts are diagnostics, not forecasts of future events."
+  },
+  "evidence_scope": "external_retrospective",
+  "freeze_hash": "c49ffa5c88e7e263ee38af1cfb52503b489ff6f826b633be56581b8f5a264049",
+  "independent_replication": false,
+  "models": {
+    "ar1": {
+      "bias": 2.82627628097771,
+      "interval_coverage": 0.7457627118644068,
+      "mae": 24.293125835997074,
+      "mean_interval_width": 62.87567661484441,
+      "rmse": 31.542775659692552
+    },
+    "cpe": {
+      "bias": -0.24618126221295203,
+      "interval_coverage": 0.7457627118644068,
+      "mae": 24.810788924597308,
+      "mean_interval_width": 66.8017807487663,
+      "rmse": 32.03798262107315
+    },
+    "ewma": {
+      "bias": -0.9683082017979276,
+      "interval_coverage": 0.7457627118644068,
+      "mae": 24.82105892796255,
+      "mean_interval_width": 66.87478669915174,
+      "rmse": 31.83762810997708
+    },
+    "instant": {
+      "bias": 1.1716821427243778,
+      "interval_coverage": 0.7288135593220338,
+      "mae": 20.392753802110413,
+      "mean_interval_width": 59.20206363336253,
+      "rmse": 26.86409114889592
+    },
+    "mean": {
+      "bias": 25.91129001883239,
+      "interval_coverage": 0.6271186440677966,
+      "mae": 45.23737288135593,
+      "mean_interval_width": 96.33444444444443,
+      "rmse": 57.93098867745407
+    },
+    "persistence": {
+      "bias": -2.2338983050847454,
+      "interval_coverage": 0.711864406779661,
+      "mae": 25.45084745762712,
+      "mean_interval_width": 69.4,
+      "rmse": 33.17500590729642
+    }
+  },
+  "n": 59,
+  "nominal_interval_coverage": 0.9,
+  "physical_validation": false,
+  "primary": {
+    "absolute_gain": 0.01027000336524253,
+    "alert_constraint": "not_evaluated_without_normal_labels",
+    "candidate": "cpe",
+    "comparator": "ewma",
+    "disposition": "not_supported",
+    "metric": "MAE",
+    "min_required_relative_gain": 0.05,
+    "relative_gain": 0.00041376169304657256,
+    "uncertainty": {
+      "block_length": 11,
+      "interpretation": "Descriptive resampling interval; dependence and representativeness assumptions apply.",
+      "mean_gain_95pct_interval": [
+        -0.1547650070360972,
+        0.1994800076795226
+      ],
+      "method": "circular_block_within_series",
+      "samples": 1000,
+      "seed": 20261007
+    }
+  },
+  "protocol_id": "CPE-sunspots-v1",
+  "series": 1
+}
