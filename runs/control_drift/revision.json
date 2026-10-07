@@ -1,0 +1,12 @@
+{
+  "action": "reject_advantage_claim_for_this_run",
+  "automatic_parameter_change": false,
+  "disposition": "rejected_on_alert_rate",
+  "new_experiment_required": true,
+  "next_model": "ewma",
+  "next_test": "Freeze a new protocol and use newly collected or separately held-out observations.",
+  "parent_freeze": "34a2d8c31f8e43fbae2e8158197c865a25453ba1e4d0347870a93e57ecb46159",
+  "parent_protocol": "CPE-control_drift-v1",
+  "prohibited_reuse": "These test outcomes are now development evidence, not a fresh confirmation set.",
+  "rationale": "Retain the matched conventional baseline as the working alternative; do not rewrite this result."
+}
