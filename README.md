@@ -1,5 +1,18 @@
 # Coherence Prediction Engine
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/Coherence-Prediction-Engine) · [Published page](https://enuminous.github.io/Coherence-Prediction-Engine/)
+
+<details>
+<summary>Repository indexes (1)</summary>
+
+- [index.html](https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/index.html) · [Open page](https://enuminous.github.io/Coherence-Prediction-Engine/index.html)
+
+</details>
+<!-- ENUMINOUS-NETWORK:END -->
+
 **Version 0.1.0 · Matthew Chenoweth Wright / Monolithic · October 7, 2026**
 
 A runnable, auditable forecasting and experimental-evaluation package connecting an EFMW coherence metric, a TORTOISE-derived Zoo workflow, the Monolithic 102 reference catalogue, and the complete eleven-sector / 165-triplet combinatorial atlas.
