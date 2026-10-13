@@ -35,7 +35,7 @@ theorem memory_bound (lam R m₀ : ℝ) (r : ℕ → ℝ)
   | zero => simp [memory]
   | succ n ih =>
     calc
-      |memory lam r m₀ (n + 1)| ≤ |lam * memory lam r m₀ n| + |(1 - lam) * r n| := abs_add _ _
+      |memory lam r m₀ (n + 1)| ≤ |lam * memory lam r m₀ n| + |(1 - lam) * r n| := abs_add_le _ _
       _ = lam * |memory lam r m₀ n| + (1 - lam) * |r n| := by
         rw [abs_mul, abs_mul, abs_of_nonneg hlam, abs_of_nonneg (sub_nonneg.mpr hlam1)]
       _ ≤ lam * (lam ^ n * |m₀| + (1 - lam ^ n) * R) + (1 - lam) * R :=
