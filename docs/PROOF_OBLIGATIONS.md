@@ -27,14 +27,24 @@ The atlas is all three-element subsets of eleven distinct sector labels. Therefo
 |---|---|
 | Explicit predictor equations, assumptions and units | Specified |
 | Forecast uses only past observations | Implementation plus noninterference and ticket tests |
-| Recurrence forgetting and bounded-input bound | Algebraic argument above plus numerical tests |
+| Recurrence forgetting and bounded-input bound | Checked in the pinned Lean package, including closed form and input-prefix causality; see the run below |
 | CPE forecast gate improves prediction | Empirical hypothesis; see actual per-run dispositions |
 | All 102 equations implemented | Not claimed; source catalogue distinguishes reference-only entries |
 | All 165 triples have physical dynamics | Not claimed; coverage catalogue only |
 | Three-sector coverage guarantees arbitrary global physics | Rejected as a general assertion; higher-order interactions can be absent |
-| New Lean proofs checked in this workspace | Not performed; preserved upstream proofs have their own provenance |
+| New engine-specific Lean proofs | Hosted build, strict axiom audit and rejection controls passed; preserved upstream references retain their separate provenance |
 | New fundamental physical law | Not demonstrated |
 | ME-102 empirical gate | Unfulfilled by this release |
 | Independent prospective replication | Outstanding |
 
 The code test suite validates software contracts. It is never promoted to empirical evidence for a physical hypothesis.
+
+## Verified engine-specific package
+
+Commit [`e55084b88b81db61e34028fdbec3112c1a966d2f`](https://github.com/enuminous/Coherence-Prediction-Engine/commit/e55084b88b81db61e34028fdbec3112c1a966d2f) passed
+[Lean verification run 38484574485](https://github.com/enuminous/Coherence-Prediction-Engine/actions/runs/38484574485),
+including the project build, strict axiom audit, four rejection controls and the
+existing Python test suite. The new [coverage ledger](../formal/COVERAGE.md)
+identifies the exact recurrence and gating claims proved. This does not promote
+the preserved reference files or numerical atlas checks into new Lean proofs,
+and does not establish predictive superiority.
