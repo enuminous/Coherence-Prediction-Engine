@@ -126,3 +126,10 @@ The atlas checks are combinatorial facts. Source equations retained from the cor
 - `tests/test_engine.py`: checks for causality, integrity, numerical edge cases and scope boundaries.
 
 The original implementation is small enough to audit. All computation is local; it makes no network calls and sends no observations elsewhere.
+
+## Lean 4 verification
+
+The pinned [formal package](formal/VERIFICATION.md) contains kernel-checked mathematical
+statements with an explicit [coverage and obligation ledger](formal/COVERAGE.md).
+The `Lean verification` workflow builds the package and tests its strict axiom audit.
+The workflow result for a commit, rather than this link alone, establishes compilation.
